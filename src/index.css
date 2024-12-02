@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f8f9fa;
+}
+header h1 {
+  margin: 0;
+}
+main {
+  text-align: center;
+}
+footer {
+  background-color: #f1f1f1;
+  padding: 20px;
+  text-align: center;
+}
+footer h5 {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+footer ul {
+  padding: 0;
+  list-style-type: none;
+}
+footer li {
+  font-size: 14px;
+}
